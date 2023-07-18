@@ -1,0 +1,3 @@
+C:/Users/kalil/Desktop/first/Build/CMakeFiles/CircularBuffer.dir
+C:/Users/kalil/Desktop/first/Build/CMakeFiles/edit_cache.dir
+C:/Users/kalil/Desktop/first/Build/CMakeFiles/rebuild_cache.dir

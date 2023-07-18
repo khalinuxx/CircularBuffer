@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "circularbuffer.h": "c",
+        "stdint.h": "c"
+    }
+}
